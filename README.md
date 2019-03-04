@@ -10,6 +10,10 @@ Cátedra: Lunes y Miercoles de 16:00 a 17:20 hrs
 
 Ayudantía: Por definir
 
+* Sala de Clases
+
+Sala: Laboratorio 022
+
 * Comunicación
 
 Las clase está en Google Classroom, regístrate y escribe tus dudas en https://classroom.google.com/u/1/c/MzA2NzMyNTU3NDha
