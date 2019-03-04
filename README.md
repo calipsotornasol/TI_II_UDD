@@ -12,7 +12,7 @@ Ayudantía: Por definir
 
 * Sala de Clases
 
-Sala: Laboratorio 022
+Laboratorio 022
 
 * Comunicación
 
