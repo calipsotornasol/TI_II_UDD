@@ -1,5 +1,5 @@
-a = int('ingrese a: ')
-b = int('ingrese b: ')
+a = int(input('ingrese a: '))
+b = int(input('ingrese b: '))
 if a > b:
 	# cuando la condición se cumple
 	print('a es mayor que b')
