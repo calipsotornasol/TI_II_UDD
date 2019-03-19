@@ -23,6 +23,6 @@ Las clase está en Google Classroom, regístrate y escribe tus dudas en https://
 Agendar hora a dopitz@udd.cl
 
 * Biblografía
-- Guttag, John. Introduction to computation and programming using Python. Revised and expanded edition. MIT press, 2013. Isbn: 9780262525008. (Ebook o versión impresa).
-- Downey, A. How to think like a computer scientist, http://www.greenteapress.com/thinkpython/html/index.html
-- Sedgewick, Wayne & Dondero, Introduction to Programming in Python: An interdicsciplinary approach. https://introcs.cs.princeton.edu/python/home/
+-- Guttag, John. Introduction to computation and programming using Python. Revised and expanded edition. MIT press, 2013. Isbn: 9780262525008. (Ebook o versión impresa).
+-- Downey, A. How to think like a computer scientist, http://www.greenteapress.com/thinkpython/html/index.html
+-- Sedgewick, Wayne & Dondero, Introduction to Programming in Python: An interdicsciplinary approach. https://introcs.cs.princeton.edu/python/home/
