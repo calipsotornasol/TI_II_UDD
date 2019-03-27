@@ -1,7 +1,9 @@
-def leerpais(linea):
-    return linea
-
+#Abriendo archivo
 f = open('gini_by_country.csv','r')
 
+#Imprimiendo
 for l in f:
-    print(leerpais(l))
+    print(l)
+f.close()
+
+
