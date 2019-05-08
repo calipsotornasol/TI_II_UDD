@@ -1,7 +1,9 @@
 rows = 3 
 cols = 4 
+matrix =[]
 
-matrix = [ [0]*cols ]*rows
+for i in range(rows):
+    matrix.append([0]*cols)
 
 print(matrix)
 
