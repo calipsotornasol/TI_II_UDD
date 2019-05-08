@@ -8,7 +8,7 @@ Bienvenidos al curso de Tecnologías a la Información de la Universidad del Des
 
 Cátedra: Lunes y Miercoles de 16:00 a 17:20 hrs
 
-Ayudantía: Por definir
+Ayudantía: Viernes de 16:00 a 17:20 hrs
 
 * Sala de Clases
 
