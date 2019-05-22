@@ -1,0 +1,10 @@
+picture
+stdaudio
+color
+stddraw
+outstream
+stdstats
+stdio
+stdrandom
+instream
+stdarray
