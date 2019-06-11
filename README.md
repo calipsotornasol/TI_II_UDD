@@ -1,6 +1,6 @@
-# Tecnologías de la Información II UDD
+# Taller de Programación UDD
 
-Bienvenidos al curso de Tecnologías a la Información de la Universidad del Desarrollo.
+Bienvenidos al curso Taller de Programación o Tecnologías a la Información de la Universidad del Desarrollo.
 
 ## Información
 
