@@ -1,3 +1,4 @@
+#cuenta los pares
 numero = int(input("Ingrese un numero: "))
 i=1
 
@@ -8,4 +9,4 @@ while i <= numero:
         print(i, 'es par')
         contador += 1
     i += 1
-print('Numeros de pares entre 1 y 10:', contador)
+print('Numeros de pares entre 1 y ' + str(numero) + ':', contador)

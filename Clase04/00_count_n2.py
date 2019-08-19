@@ -8,5 +8,5 @@ while contador <= n:
   suma += contador
   contador += 1
 
-print(suma)
-print(contador-1) #Si no cuento uno más
+print('Suma', suma)
+print('Contador', contador-1) #Si no cuento uno más

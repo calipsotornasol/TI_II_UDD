@@ -1,5 +1,5 @@
-#Sumo numeros desde 1 a 3
-#Cuento numeros desde 1 a 3
+#Sumo numeros desde 1 a n
+#Cuento numeros desde 1 a n
 n = int(input("Ingrese un numero: "))
 suma = 0 #acumulador
 contador = 0 #contador
@@ -8,5 +8,5 @@ while contador <= n:
   suma = suma + contador
   contador =  contador + 1
 
-print(suma)
-print(contador-1) #Si no cuento uno más
+print('Suma', suma)
+print('Contador', contador-1) #Si no cuento uno más
