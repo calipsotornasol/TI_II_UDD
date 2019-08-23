@@ -8,7 +8,7 @@ Bienvenidos al curso Taller de Programación o Tecnologías a la Información de
 
 Cátedra: Lunes y Miercoles de 16:00 a 17:20 hrs
 
-Ayudantía: Viernes de 16:00 a 17:20 hrs
+Ayudantía: Miercoles de 14:30 a 15:50 hrs
 
 * Sala de Clases
 
